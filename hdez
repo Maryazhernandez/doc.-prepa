@@ -1,0 +1,52 @@
+<DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Siguiendo Regiones</title>
+<style>
+
+#fondo color verde{
+background-color:green;
+color:green;
+{
+
+#letra blanca{
+color:rgb(255,255,255);
+text-aling:justify
+font-size;20px
+{
+
+#letra negra{
+text-aling:justify
+font-size;16px
+color:black;
+{
+    </style>
+</head>
+</body>
+     <h1 id "titulo principal">Siguiendo Regiones</h1>
+
+<h2>Sobre tu pagina favorita</h2>
+<p>Nuestra pagina se encarga de darte a conocer las diversas costumbres, tradiciones y culturas de las variables regiones que existen a lo largo de nuestro hermosos país.</p>
+
+<h2>Principales Regiones</h2>
+<p>Baja California Sur</p>
+<p>Oaxaca</p>
+<p>Hidalgo</p>
+<p>Guerrero</p>
+<p>Chiapas</p>
+<p>Sinaloa</p>
+<p>Chihuahua</p>
+<p>Estas son las principales regiones que hoy vamos a ver y entre otras mas de nuestro pais</p>
+
+<h3>¿Cuales son los temas principales en nuestra pagina?</h3>
+</ul>
+<li>Su comida</li>
+<li>Tradiciones</li>
+<li>Religiones</li>
+</ul>
+
+<img src="https://pbs.twimg.com/media/Co3qoGFUsAAva6n.jpg">
+<p>&copy;2024 Siguiendo Regiones</p>
+   >/body 
+</html>
